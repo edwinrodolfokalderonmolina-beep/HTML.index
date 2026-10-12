@@ -51,6 +51,4 @@
 
 <br>
 <blockquote style="font-size: 0.85em; color: #666; max-width: 650px; margin: auto;">
-  ⚠️ <strong>Disclaimer:</strong> Este documento es una simulación visual (mockup) con fines puramente académicos, de diseño o demostración en portafolio de desarrollo (GitHub). No cuenta con validez legal ni sustituye de ninguna forma los documentos oficiales emitidos por la Secretaría de la Defensa Nacional (SEDENA).
-</blockquote>
 
