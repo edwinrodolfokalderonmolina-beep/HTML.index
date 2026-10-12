@@ -13,7 +13,6 @@
     <!-- Sección de la Fotografía -->
     <div style="flex: 0 0 130px; text-align: center;">
       <div style="border: 2px solid #2d472c; width: 130px; height: 165px; background-color: #e0e0e0; display: flex; justify-content: center; align-items: center; overflow: hidden; border-radius: 4px;">
-        <!-- Si subes la foto como 'foto.jpg' en la misma carpeta, GitHub la cargará aquí -->
         <img src="foto.jpg" alt="Fotografía SMN" style="width: 100%; height: 100%; object-fit: cover; filter: grayscale(100%) contrast(1.1);" onerror="this.style.display='none'; this.parentNode.innerHTML='<span style=\'font-size:10px; color:#555; padding:5px;\'>Subir foto.jpg al repositorio</span>';">
       </div>
       <p style="margin: 5px 0 0 0; font-size: 9px; color: #555; text-transform: uppercase; font-weight: bold;">Fotografía Oficial</p>
@@ -49,6 +48,6 @@
   </div>
 </div>
 
-<br>
-<blockquote style="font-size: 0.85em; color: #666; max-width: 650px; margin: auto;">
-
+<blockquote style="font-size: 0.85em; color: #666; max-width: 650px; margin: 15px auto 0 auto;">
+  Documento simulado con fines ilustrativos.
+</blockquote>
